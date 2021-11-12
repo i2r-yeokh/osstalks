@@ -110,8 +110,16 @@ Let me know if you need help with keys :)
  - Socials (e.g. IRC, Reddit, Telegram, Discord)
  - StackOverflow
 
+---
+# User Support / Improvements / Fixes
+
+- GitHub Issues
+  - check the labels
+- GitHub Watchlists
+  - members get notified
+
  ---
- # What Community?
+ # Getting Started?
  - **Singapore**
    - HackerspaceSG ([web][hsgweb])([telegram][hsgtele])
    - FOSSASIA ([summit][faconf])([telegram][fatele])
@@ -128,14 +136,6 @@ Let me know if you need help with keys :)
 [nhweb]: https://www.nushackers.org/
 [nhvid]: https://www.youtube.com/channel/UCMIhkYwOTSDh-7k7yv7aERg
 [nhtele]: https://t.me/nushackers_chat
-
----
-# User Support / Improvements / Fixes
-
-- GitHub Issues
-  - check the labels
-- GitHub Watchlists
-  - members get notified
 
 ---
 # Acknowledgments
