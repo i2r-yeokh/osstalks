@@ -67,13 +67,12 @@ You don't have to create an account if you don't want to :)
 
  - If you already use [git][gitscm], you can clone the project *repository*:
 
-   ![clone url][pic4]
-
         git clone https://.... # requires no account
         git clone git@github.com:... # account with SSH key needed
 
 Let me know if you need help with keys :)
 
+[pic3]: img/03-dlcode.png
 ---
 # Using Git
 
