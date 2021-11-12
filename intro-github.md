@@ -47,14 +47,14 @@ Kheng Hui <yeokh@i2r.a-star.edu.sg>
 
  - Just visit the site... 
 
-    ![picture][pic1]
+    ![main github page][pic1]
 
  - Or search for any open-source project online:
 
     ![another picture][pic2]
 
-[pic1]: https://..../
-[pic2]: https://..../
+[pic1]: img/01-github.png
+[pic2]: img/02-foxmob.png
 
 You don't have to create an account if you don't want to :)
 
