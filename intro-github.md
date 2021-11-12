@@ -11,7 +11,7 @@ Kheng Hui <yeokh@i2r.a-star.edu.sg>
 ---
 # Overview
 
- - Introducing Git
+ - Introducing GitHub
    - Git vs GitHub
    - Browsing
    - Downloading
