@@ -18,9 +18,7 @@ Kheng Hui <yeokh@i2r.a-star.edu.sg>
    - Using Git
  - Common Open-Source Projects
  - Community? What Community?
-   - User Support
-   - Improvements
-   - Fixes (not just code!)
+   - User Support/Improvements/Fixes (not just code!)
  - Getting Started
 
 ---
@@ -65,6 +63,9 @@ You don't have to create an account if you don't want to :)
 
    ![download archive][pic3]
 
+---
+# Downloading
+
  - If you already use [git][gitscm], you can clone the project *repository*:
 
         git clone https://.... # requires no account
@@ -103,7 +104,6 @@ Let me know if you need help with keys :)
 # What Community?
 
  - GitHub
-   - Stars
    - Watches
    - Issues
    - Discussions (new)
