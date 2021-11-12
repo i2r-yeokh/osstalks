@@ -106,6 +106,7 @@ Let me know if you need help with keys :)
    - Stars
    - Watches
    - Issues
+   - Discussions (new)
  - Not GitHub
    - Socials
      - IRC (yes, that IRC)
@@ -120,14 +121,14 @@ Let me know if you need help with keys :)
 
 
 [hsgweb]: https://hackerspace.sg/
-[hsgtele]: https://t.me/.../
-[faconf]: https://.../
-[fatele]: https://t.me/.../
+[hsgtele]: https://t.me/HackerspaceSG
+[faconf]: https://summit.fossasia.org
+[fatele]: https://t.me/fossasiasg
 [esgweb]: https://engineers.sg/
-[esgvid]: https://youtube.com/.../
-[nhweb]: https://.../
-[nhvid]: https://youtube.com/.../
-[nhtele]: https://t.me/.../
+[esgvid]: https://youtube.com/c/engineerssg
+[nhweb]: https://www.nushackers.org/
+[nhvid]: https://www.youtube.com/channel/UCMIhkYwOTSDh-7k7yv7aERg
+[nhtele]: https://t.me/nushackers_chat
 
 ---
 # User Support / Improvements / Fixes
