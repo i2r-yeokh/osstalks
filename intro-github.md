@@ -78,7 +78,7 @@ Let me know if you need help with keys :)
 
  - [Basic Intro][gitintro]
  - [Cheat Sheet][gitcheat]
- - Deep Dive (thanks, [GeekCampSG][geeksg]!)
+ - [Deep Dive][gkrrich] (thanks, [GeekCampSG][geeksg]!)
  - *tl;dr*
 
         git clone $URL $TARGET
@@ -88,8 +88,9 @@ Let me know if you need help with keys :)
         git commit -m "what i did"
         git push
 
-[gitintro]: https://.../
-[gitcheat]: https://.../
+[gitintro]: https://docs.github.com/en/get-started/using-git/about-git
+[gitcheat]: https://education.github.com/git-cheat-sheet-education.pdf
+[gkrrich]: https://youtu.be/fRw49EbP2vs?t=1h57m45s
 [geeksg]: https://geekcamp.sg/
 
 ---
