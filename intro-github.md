@@ -8,7 +8,6 @@ paginate: true
 **Open Source Things #OST**
 Kheng Hui <yeokh@i2r.a-star.edu.sg>
 
-
 ---
 # Overview
 
@@ -18,8 +17,6 @@ Kheng Hui <yeokh@i2r.a-star.edu.sg>
    - Downloading
    - Using Git
  - Common Open-Source Projects
-   - Firefox
-   - Android
  - Community? What Community?
    - User Support
    - Improvements
@@ -49,6 +46,9 @@ Kheng Hui <yeokh@i2r.a-star.edu.sg>
 
     ![main github page][pic1]
 
+---
+# Browsing
+
  - Or search for any open-source project online:
 
     ![another picture][pic2]
@@ -61,7 +61,7 @@ You don't have to create an account if you don't want to :)
 ---
 # Downloading
 
- - From any project page, you can download the archive of the project.
+ - From any project page, you can download its archive.
 
    ![download archive][pic3]
 
@@ -107,12 +107,11 @@ Let me know if you need help with keys :)
    - Watches
    - Issues
    - Discussions (new)
- - Not GitHub
-   - Socials
-     - IRC (yes, that IRC)
-     - Reddit
-     - Discord 
-   - StackOverflow
+ - Socials (e.g. IRC, Reddit, Telegram, Discord)
+ - StackOverflow
+
+ ---
+ # What Community?
  - **Singapore**
    - HackerspaceSG ([web][hsgweb])([telegram][hsgtele])
    - FOSSASIA ([summit][faconf])([telegram][fatele])
